@@ -1,5 +1,5 @@
-#ifndef GET_NEXT_LINE_H
-# define GET_NEXT_LINE_H
+#ifndef LIBFT_PRINTF_H
+# define LIBFT_PRINTF_H
 
 #include <unistd.h>
 #include <stdarg.h>
